@@ -1,6 +1,6 @@
 # Project 6 - *Instagram Parse 2*
 # Jada Surrency
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
+**InstagramParse2** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **10** hours spent in total
 
